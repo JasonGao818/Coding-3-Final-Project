@@ -23,4 +23,5 @@ Machine learning is used to collect photos of stray cats because: 1. Machine lea
 
 4. Demonstration of operational results:
 This is a photo from the 5,000 training sessions
+![Image text](https://github.com/JasonGao818/Coding-3-Final-Project/blob/main/Coding3%20Final%20Project/1.jpg)
 Because it was too vague, I increased the number of training sessions and here are the results when I trained 10,000 times.
